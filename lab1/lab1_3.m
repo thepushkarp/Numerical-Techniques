@@ -1,0 +1,16 @@
+A = [4 -6; 6 10];
+B = [6 -13; 3.4 16];
+disp('A+B is:')
+disp(A+B)
+disp('B*B is:')
+disp(B*B)
+disp('AB is:')
+disp(A*B)
+disp('Transpose of AB is:')
+disp((A*B).')
+disp('A-B is:')
+disp(A-B)
+disp('A/B is:')
+disp(A/B)
+disp('Inverse of A is:')
+disp(inv(A))
